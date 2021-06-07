@@ -1,4 +1,4 @@
-# vagrant-rust-intellij
+# vagrant-rust-clion
 Vagrant box based on Debian 11 (Bullseye) including preinstalled Rust and JetBrains CLion (using Projector)
 
 ## Usage
